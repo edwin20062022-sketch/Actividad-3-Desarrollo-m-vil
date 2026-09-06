@@ -1,0 +1,12 @@
+﻿.gradle/
+.kotlin/
+build/
+out/
+.idea/
+*.iml
+*.hprof
+.vscode/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
